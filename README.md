@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/add8c514-8ea8-4046-acc4-acaa4f4e01e3
 
 ## 📌 Project Overview  
 This project showcases how **Power BI** can transform raw sales data into actionable insights.  
-I partnered with *John*, an online seller, to help him **expand his reach** and **optimize his sales strategy** through an interactive and dynamic dashboard.  
+I partnered with John, an online seller, to help him **expand his reach** and **optimize his sales strategy** through an interactive and dynamic dashboard.  
 
 ---
 
