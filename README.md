@@ -2,7 +2,6 @@
 # 📊 Empowering Data-Driven Decisions with Power BI  
 
 
-https://github.com/user-attachments/assets/add8c514-8ea8-4046-acc4-acaa4f4e01e3
 
 
 
@@ -16,6 +15,10 @@ I partnered with John, an online seller, to help him **expand his reach** and **
 - ✅ **Interactive Dashboards** – User-friendly filters, slicers, and drill-downs for deeper exploration.  
 - ✅ **Dynamic Parameters** – Customized insights and user-driven visualizations.  
 - ✅ **Data Modeling** – Built reliable data connections, joins, and calculations for accuracy.  
+
+https://github.com/user-attachments/assets/7e3383d8-7156-4db8-bcf1-0881aff1528e
+
+
 - ✅ **Rich Visualizations** – Bar charts, pie charts, scatter plots, line charts, and maps for impactful storytelling.  
 
 ---
